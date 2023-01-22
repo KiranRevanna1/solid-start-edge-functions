@@ -1,0 +1,26 @@
+public/*
+!public/404.html
+!public/index.css
+!public/favicon.ico
+!public/robots.txt
+!public/manifest.webmanifest
+!public/img
+!public/sw.js
+
+wrangler.toml
+dist
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+*.launch
+.settings/
+
+
+#System Files
+.DS_Store
+Thumbs.db
